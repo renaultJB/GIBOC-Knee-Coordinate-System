@@ -1,6 +1,6 @@
 # How to generate nice ***.msh*** files from ***.stl*** ones
 
-Our methods rely on [GMSH](http://gmsh.info/), **which must be installed in your working folder or added to your os path**, associated papers :  
+Our methods rely on [GMSH 2.16](http://gmsh.info/), **which must be installed in your working folder or added to your os path**, associated papers :  
 
 ---  
 * *C. Geuzaine and J.-F. Remacle. Gmsh: a three-dimensional finite element mesh generator with built-in pre- and post-processing facilities. International Journal for Numerical Methods in Engineering 79(11), pp. 1309-1331, 2009.*  
