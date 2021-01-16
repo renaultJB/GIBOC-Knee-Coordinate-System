@@ -1,3 +1,19 @@
+# ** UPDATED VERSION ** 
+This package has been integrated within (or should I say "stapled with" :smile:) the [MSK-STAPLE toolbox](https://github.com/modenaxe/msk-STAPLE).
+
+The STAPLE toolbox and some of its applications are described in [the following publication](https://doi.org/10.1016/j.jbiomech.2020.110186) (also available as [preprint](https://doi.org/10.1101/2020.06.23.162727)):
+```bibtex
+@article{Modenese2021auto,
+  title={Automatic Generation of Personalized Skeletal Models of the Lower Limb from Three-Dimensional Bone Geometries},
+  author={Modenese, Luca and Renault, Jean-Baptiste},
+  journal={Journal of Biomechanics},
+  year={2021, in press},
+  doi={https://doi.org/10.1016/j.jbiomech.2020.110186}
+}
+```
+
+-------------------------------
+
 # GIBOC-Knee-Coordinate-System  
 
 The full text article associated is available at :
